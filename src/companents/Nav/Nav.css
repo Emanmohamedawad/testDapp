@@ -35,3 +35,14 @@ nav a.active{
     background: #F55353;
     color: var(--color-white);
 }
+
+@media screen and (max-width: 800px) {
+
+    nav{
+        
+        margin-bottom: 12rem;
+        margin-right:  20rem;
+        right: 30px;
+      
+    }
+}
