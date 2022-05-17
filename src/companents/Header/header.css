@@ -94,6 +94,14 @@ header{
     header{
         height: 90vh;
     }
+    .me {
+        width: 20rem;
+        margin-left: 3rem;
+       
+    }
+    .header__social{
+        margin-bottom: 2rem;
+    }
 
 
     /* .scroll__down
